@@ -6,14 +6,14 @@ The system focuses on selected colleges in **Pune, Mumbai, and Sangli**, and acc
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 - **Java** – Application logic  
 - **JDBC** – Database connectivity  
 - **SQL (MySQL)** – Cutoff data storage & filtering  
 
 ---
 
-## ✨ Highlights
+## Highlights
 - CAP-based college prediction  
 - Region-specific results  
 - Category & gender-based cutoff analysis  
@@ -22,6 +22,6 @@ The system focuses on selected colleges in **Pune, Mumbai, and Sangli**, and acc
 
 ---
 
-## 🎓 Use Case
+## Use Case
 Helps students make **informed admission decisions** using reliable DBMS-backed predictions.
 
